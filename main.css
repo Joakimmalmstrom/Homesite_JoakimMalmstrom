@@ -16,7 +16,6 @@ body {
     padding: 15px;
     margin: 15px;
 }
-
 li {
     display: inline;
     text-align: center;
@@ -30,10 +29,10 @@ li a {
     text-align: center;
 }
 footer {
-    position:absolute;
+    position: absolute;
     border: 5px ridge darkslategray;
     bottom: 0;
-    width:100%;
+    width: 100%;
     color: white;
     height: 50px;
     background-color: #2f0003
